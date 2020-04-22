@@ -17,10 +17,10 @@
    <br>
    ```
 
-   - 其中包含一个类`time-axis-main`，定义在\themes\hexo-theme-amazing\source\css\base.styl里；
-   - 还包含了一个js文件`yulu.js`，路径为\themes\hexo-theme-amazing\source\js\yulu.js；
+   - 其中包含一个类`time-axis-main`，定义在[\themes\hexo-theme-amazing\source\css\base.styl](https://github.com/kangzhiheng/hexo-blog-icarus/blob/master/themes/hexo-theme-amazing/source/css/base.styl)里；
+   - 还包含了一个js文件`yulu.js`，路径为[\themes\hexo-theme-amazing\source\js\yulu.js](https://github.com/kangzhiheng/hexo-blog-icarus/blob/master/themes/hexo-theme-amazing/source/js/yulu.js)；
 
-2. `time-axis-main`定义：\themes\hexo-theme-amazing\source\css\base.styl里；
+2. `time-axis-main`定义：[\themes\hexo-theme-amazing\source\css\base.styl](https://github.com/kangzhiheng/hexo-blog-icarus/blob/master/themes/hexo-theme-amazing/source/css/base.styl)里；
 
    ```stylus
    .time-axis-main {
@@ -114,7 +114,7 @@
    }
    ```
 
-3. js文件`yulu.js`：\themes\hexo-theme-amazing\source\js\yulu.js；
+3. js文件`yulu.js`：[\themes\hexo-theme-amazing\source\js\yulu.js](https://github.com/kangzhiheng/hexo-blog-icarus/blob/master/themes/hexo-theme-amazing/source/js/yulu.js)；
 
    ```javascript
    $(function () { // 获取记录数据
@@ -131,7 +131,7 @@
    });
    ```
 
-4. `yulu.js`读取的文件格式为`json`，路径为：\themes\hexo-theme-amazing\source\json_data\yulu.json，里面的内容类似为：
+4. `yulu.js`读取的文件格式为`json`，路径为：[\themes\hexo-theme-amazing\source\json_data\yulu.json](https://github.com/kangzhiheng/hexo-blog-icarus/blob/master/themes/hexo-theme-amazing/source/json_data/yulu.json)，里面的内容类似为：
 
    ```json
    [
